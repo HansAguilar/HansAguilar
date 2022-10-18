@@ -1,7 +1,7 @@
 # Hello! 👋
 <hr>
 
-- 👋 Hi, I’m @HansAguilar a.k.a Kukis
+- 🙋‍♂️ I’m @HansAguilar a.k.a Kukis
 - 👀 I’m interested in learning new technologies...
 - 🌱 I’m currently learning web development...
 - 👌 Constantly practicing my programming skills as well as solidifying my 🧠.
@@ -28,9 +28,18 @@
 </div>
 <hr>
 
-## Nationality <img src="https://www.pngarts.com/files/1/Globe-Transparent-Image.png" width="20" height="20">
+## Nationality 🌐
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/2560px-Flag_of_the_Philippines.svg.png" width="90" height="60">
+<hr>
+
+## Facts about me... 💯
+- I love playing video games... 🎮
+- I speak English and Filipino... 🗣
+- I am not great at designing... 🖌
+- I love building and creating software where people can benefit from it... 🛠
+- I do not like essays... 📃
+- I am a man of few words... 🥶
 <hr>
 <!---
 HansAguilar/HansAguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,10 +2,7 @@
 - 👀 I’m interested in learning new technologies...
 - 🌱 I’m currently learning web development...
 - 👌 Constantly practicing my programming skills as well as solidifying my 🧠.
-- 💬 Contact me through
-     Email: aguilarhans100701@gmail.com
-     Instagram: @kukisnotqt
-     Facebook: https://www.facebook.com/hansvincent.aguilar
+- 💬 Email me: aguilarhans100701@gmail.com 
      
 <!---
 HansAguilar/HansAguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

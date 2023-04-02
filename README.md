@@ -35,7 +35,6 @@
 
 ## Facts about me... 💯
 - I love playing video games... 🎮
-- I speak English and Filipino... 🗣
 - I am not great at designing... 🖌
 - I love building and creating software where people can benefit from it... 🛠
 - I do not like essays... 📃

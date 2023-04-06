@@ -2,8 +2,6 @@
 <hr>
 
 - i’m currently learning web development
-- i dont like mixed signals
-
 
 ## Tech Stacks <img src="https://images.emojiterra.com/google/android-11/512px/1f468-1f4bb.png" width="40" height="40">
 <br>

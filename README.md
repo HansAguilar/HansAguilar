@@ -1,4 +1,4 @@
-### Hello! 👋 I’m @HansAguilar a.k.a Kukis
+### Hello! 👋 I go by the name of Kukis :)
 <hr>
 
 - i’m currently learning web development

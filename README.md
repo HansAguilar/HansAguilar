@@ -1,4 +1,4 @@
-### Hello! 👋 I go by the name of Kukis :)
+### Hello! 👋
 <hr>
 
 - i’m currently learning web development

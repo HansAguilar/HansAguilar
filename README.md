@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m an aspiring software engineer 
 ⚡ Build Fast, Fail Fast
-💯 I value delivering high-quality code that is well-documented and maintainable.
 👨‍💻 I'm continuously learning and staying up-to-date with the latest technologies.
 
 

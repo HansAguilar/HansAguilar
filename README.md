@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an aspiring software engineer 
+🔭 Software Developer
 ⚡ Build Fast, Fail Fast
 👨‍💻 I'm continuously learning and staying up-to-date with the latest technologies.
 
